@@ -1,0 +1,21 @@
+body {
+    background: url(https://images.unsplash.com/photo-1530625625693-b38b404cb1be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+    background-repeat: repeat-x;
+}
+
+div {
+    background: blanchedalmond;
+    border: green;
+    border-width: 2px;
+    border-style: solid;
+}
+
+p {
+    color: brown;
+}
+
+span {
+    color: blanchedalmond;
+    background: url(https://images.unsplash.com/photo-1530625625693-b38b404cb1be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+
+}
