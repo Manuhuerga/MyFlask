@@ -1,0 +1,12 @@
+.first {
+    background-color: gray;
+}
+
+.second {
+    color: blue;
+}
+
+/* its with id */
+#singledout {
+    color: cornflowerblue;
+}
